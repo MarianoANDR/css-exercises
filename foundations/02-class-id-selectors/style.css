@@ -1,0 +1,19 @@
+.triple-class{
+    background-color: rgba(230, 172, 172, 0.933);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-two {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#id-four {
+    background-color: rgb(113, 208, 113);
+    font-weight: bold;
+}
+
